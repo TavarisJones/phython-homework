@@ -1,0 +1,2 @@
+Total Number of Months	Total	Average Change	Maximum Profit	Maximum Loss
+86	38382578	-2315.12	1926159	-2196167
